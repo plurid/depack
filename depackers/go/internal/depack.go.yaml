@@ -1,0 +1,9 @@
+# package name
+# just a name: 'package-name'
+# or scoped: '@scope/package-name'
+name: test
+
+# dependencies to be installed
+dependencies:
+  - one
+  - two
